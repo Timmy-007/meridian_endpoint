@@ -10,7 +10,7 @@ router.get('/', function (req, res) {
 });
 //router.get('/meridian/', function (req, res) {
 //    postVariable = req.body; test
-//    res.render('index', { title: postVariable });
+//    res.render('index', { title: postVariable }); test
 //});
 router.post('/meridian/', function (req, res) {
    
