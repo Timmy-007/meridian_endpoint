@@ -1,0 +1,3 @@
+C:\Users\tijssent\source\repos\API_Testing\API_Testing\obj\Debug\API_Testing.njsprojAssemblyReference.cache
+C:\Users\tijssent\source\repos\API_Testing\API_Testing\obj\Debug\API_Testing.njsproj.CoreCompileInputs.cache
+C:\Users\tijssent\source\repos\API_Testing\API_Testing\bin\Microsoft.NodejsTools.WebRole.dll
