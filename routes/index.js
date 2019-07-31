@@ -15,7 +15,7 @@ router.get('/', function (req, res) {
 router.post('/meridian/', function (req, res) {
    
     console.log('world');
-    postVariable = req.body.campaign_type + "" + req.body.device_ids;
+    postVariable = req.body.campaign_type + "" + req.body.device_id;
     
     res.render('index', { title: postVariable });
 });
